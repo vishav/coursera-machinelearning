@@ -1,1 +1,2 @@
-# coursera-machinelearning
+# coursera-machine learning
+contains weekly assignments, project
